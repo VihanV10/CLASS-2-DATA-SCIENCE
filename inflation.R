@@ -1,0 +1,5 @@
+install.packages('dplyr')
+library(dplyr)
+fit6=filter(CPI.Inflation.2,Year>1971,Year<=2021)
+ggplot(fit6, aes(y = Dec-Jan, x = Year))+ geom_line()+geom_smooth()
+ggtitle("Differece in CPI in a year ")
