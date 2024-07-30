@@ -1,2 +1,2 @@
 # CLASS-2-DATA-SCIENCE
-These were a few projects I made during my data science course at Brown Summer. 
+During my data science course at Brown Summer, I completed several projects that allowed me to become proficient in data preprocessing, feature engineering, and exploratory data analysis using Python libraries such as pandas, numpy, matplotlib, and seaborn. I gained experience in building, tuning, and evaluating logistic regression models with scikit-learn, including hyperparameter optimization and cross-validation. These projects enhanced my analytical skills in interpreting model results and improving predictive performance.
