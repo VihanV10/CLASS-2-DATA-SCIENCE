@@ -1,2 +1,5 @@
-# CLASS-2-DATA-SCIENCE
-During my data science course at Brown Summer, I completed several projects that allowed me to become proficient in data preprocessing, feature engineering, and exploratory data analysis using Python libraries such as pandas, numpy, matplotlib, and seaborn. I gained experience in building, tuning, and evaluating logistic regression models with scikit-learn, including hyperparameter optimization and cross-validation. These projects enhanced my analytical skills in interpreting model results and improving predictive performance.
+•	Analyzed diamond prices, pharma, and heart disease datasets through EDA with Pandas, Seaborn, and Matplotlib to identify trends.
+•	 Performed data preprocessing and trained models (RandomForest, KMeans) for classification and regression, optimizing accuracy with statistical methods.
+•	Evaluated models using permutation feature importance and RMSE.
+
+
